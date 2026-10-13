@@ -4,7 +4,7 @@ title: "Paul Schiltz"
 name: "Paul Schiltz's Portfolio in Jekyll"
 email: 
 url: "https://71north.github.io"
-baseurl: "/jekyll-resume-template"
+baseurl: "/Jekyll-Resume-Template-Paul"
 repository: "paulschiltz/Jekyll-Resume-Template-Paul"
 header:
   image: /assets/images/banner-husky.jpg
