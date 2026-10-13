@@ -1,7 +1,7 @@
 ---
 title: ""
 header:
-  image: /assets/images/bYbWV.jpg
+  image: /assets/images/Triple T and Dansby Hangin'.png
 ---
 
 # Welcome
