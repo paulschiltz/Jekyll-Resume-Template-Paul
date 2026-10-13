@@ -7,7 +7,7 @@ url: "https://71north.github.io"
 baseurl: "/Jekyll-Resume-Template-Paul"
 repository: "paulschiltz/Jekyll-Resume-Template-Paul"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/cute dansby swanson.png
 
 include:
   - _pages
